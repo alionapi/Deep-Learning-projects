@@ -1,0 +1,12 @@
+Epoch 1/5
+750/750 [==============================] - 45s 59ms/step - loss: 0.2098 - accuracy: 0.9350 - val_loss: 0.0614 - val_accuracy: 0.9813
+Epoch 2/5
+750/750 [==============================] - 45s 61ms/step - loss: 0.0541 - accuracy: 0.9826 - val_loss: 0.0439 - val_accuracy: 0.9877
+Epoch 3/5
+750/750 [==============================] - 41s 55ms/step - loss: 0.0373 - accuracy: 0.9884 - val_loss: 0.0386 - val_accuracy: 0.9894
+Epoch 4/5
+750/750 [==============================] - 42s 56ms/step - loss: 0.0290 - accuracy: 0.9911 - val_loss: 0.0460 - val_accuracy: 0.9868
+Epoch 5/5
+750/750 [==============================] - 42s 56ms/step - loss: 0.0229 - accuracy: 0.9928 - val_loss: 0.0380 - val_accuracy: 0.9887
+313/313 [==============================] - 3s 9ms/step - loss: 0.0280 - accuracy: 0.9904
+Test accuracy: 0.9904000163078308
